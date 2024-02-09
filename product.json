@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "Nike ",
+        "price": 520,
+        "image": "images/1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Nike le ",
+        "price": 220,
+        "image": "images/2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Nike pop ",
+        "price": 250,
+        "image": "images/3.webp"
+    }
+    ,
+    {
+        "id": 4,
+        "name": " Trle Nike",
+        "price": 420,
+        "image": "images/4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Nike Redb",
+        "price": 120,
+        "image": "images/5.webp"
+    },
+
+    {
+        "id": 6,
+        "name": "Chel Nike",
+        "price": 120,
+        "image": "images/6.webp"
+    },
+    
+    {
+
+        "id": 7,
+        "name": "Royel Nike",
+        "price": 150,
+        "image": "images/7.webp"
+    },{
+        
+        "id": 8,
+        "name": "Super Nike",
+        "price": 520,
+        "image": "images/8.webp"
+    },{
+        
+        "id": 9,
+        "name": "Reme Nike",
+        "price": 150,
+        "image": "images/9.webp"
+    }
+
+]
